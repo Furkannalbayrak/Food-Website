@@ -11,5 +11,5 @@ Bu website aşağıdaki amaçlar için tasarlanmıştır:
 Bu proje, temel seviyeden orta düzey projelere geçişimi göstermek amacıyla yaptıgım bir websitesidr. HTML ve CSS bilgilerimi geliştirmek ve hoş bir arayüz oluşturma deneyimi kazanmak için yaptığım bir projedir.
 
 # Kullanılan Teknolojiler
--HTML
--CSS
+- HTML
+- CSS
